@@ -21,10 +21,9 @@ class PageController extends Controller
         return view('pages.privacy_policy');
     }
 
-    
-    public function show() {
-        return view('pages.product_service');
-    }
+
+
+   
 
    
 }

@@ -13,40 +13,39 @@ if (empty($_SESSION['csrf_token'])) {
 @section('content')
 
 <section class="relative bg-black flex items-center justify-center min-h-screen w-full">
-    <div class="container mx-auto flex flex-col justify-center items-center text-center px-6">
+    <div class="w-full flex flex-col justify-center items-center text-center px-6">
         <!-- Text Content -->
         <div class="z-10 max-w-4xl text-white font-bold">
-          <br>
+            <br>
             <h2 class="text-4xl mb-6">WELCOME TO MAWARID GROUP</h2>
             <p class="text-lg mb-8">EXPLORE OUR SERVICES AND SOLUTIONS TAILORED TO YOUR NEEDS.</p>
 
             <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
                 <div>
                     <h3 class="text-xl mb-2">MAWARID GROUP</h3>
-                    <a href="#" class="block text-gray-700 hover:text-black">PRODUCT & SERVICES</a>
-                    <a href="#" class="block text-gray-700 hover:text-black">INVESTOR RELATION</a>
+                    <a href="#" class="block text-gray-400 hover:text-white">PRODUCT & SERVICES</a>
+                    <a href="#" class="block text-gray-400 hover:text-white">INVESTOR RELATION</a>
                 </div>
                 <div>
                     <h3 class="text-xl mb-2">SME FINANCE</h3>
-                    <a href="#" class="block text-gray-700 hover:text-black">FINANCING SOLUTIONS</a>
-                    <a href="#" class="block text-gray-700 hover:text-black">BUSINESS DEPOSITS</a>
+                    <a href="#" class="block text-gray-400 hover:text-white">FINANCING SOLUTIONS</a>
+                    <a href="#" class="block text-gray-400 hover:text-white">BUSINESS DEPOSITS</a>
                 </div>
                 <div>
                     <h3 class="text-xl mb-2">FALAK TAYYEB CARDS</h3>
-                    <a href="#" class="block text-gray-700 hover:text-black">WORLD MURABAHA CARD</a>
-                    <a href="#" class="block text-gray-700 hover:text-black">PLATINUM MURABAHA CARD</a>
+                    <a href="#" class="block text-gray-400 hover:text-white">WORLD MURABAHA CARD</a>
+                    <a href="#" class="block text-gray-400 hover:text-white">PLATINUM MURABAHA CARD</a>
                 </div>
                 <div>
                     <h3 class="text-xl mb-2">CONTACT US</h3>
-                    <p class="text-gray-700">P.O. BOX 212121, DUBAI, U.A.E</p>
-                    <p class="text-gray-700">TEL: +971 4 304 0888</p>
+                    <p class="text-gray-400">P.O. BOX 212121, DUBAI, U.A.E</p>
+                    <p class="text-gray-400">TEL: +971 4 304 0888</p>
                 </div>
             </div>
-
-            
         </div>
     </div>
 </section>
+
 
 <section class="bg-white">
     <div class="m-auto flex min-h-[788px] w-full max-w-6xl flex-col items-center gap-12 px-6 py-6 pb-[68px] pt-12 md:min-h-[525px] md:gap-[92px] md:py-[96px] xl:px-[0px]">

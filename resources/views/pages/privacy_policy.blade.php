@@ -146,8 +146,7 @@
               <span>Find your property</span>
             </button>
             
-          </div>
-          
-        </div>
+</div>          
+ </div>
 </div>    
  @endsection   

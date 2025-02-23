@@ -1532,6 +1532,7 @@
         </symbol>
     </svg>
   
+<div class="whitespace-pre-line text-base font-normal md:text-lg text-text-primary bg-gray-100 p-6 rounded-lg shadow-md transition duration-300 ease-in-out hover:bg-gray-600">
 
     <div class="relative px-[24px] py-[48px] md:py-[142px] lg:ps-[191px] flex justify-center items-center bg-grey-100">
         <div class="max-w-[90%] xs:max-w-[70%] lg:max-w-[65%] text-center">
@@ -1549,14 +1550,7 @@
             <button class="flex items-center justify-center transition-transform rounded-lg bg-white text-black border border-black hover:bg-gray-800 hover:text-white disabled:bg-gray-200 disabled:text-gray-400 h-14 px-6 text-base font-medium w-full en-about-property">
               <span>Find your property</span>
             </button>
-            
-          </div>
-          
-        </div>
+            </div>
+         </div>
       </div>
-   <br>
-   <br>
-    
-
-
 @endsection

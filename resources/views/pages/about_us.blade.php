@@ -37,38 +37,8 @@
   • Introduced AI-driven mortgage tools, delivering personalized recommendations and faster approval processes to enhance the customer experience.</p></div></div></div><div class="flex items-center justify-center"><div class="step-img z-40 flex h-[342px] w-[342px] items-center justify-center rounded-2xl md:h-[612px] md:w-[612px]"><img alt="step image" loading="lazy" width="612" height="612" decoding="async" data-nimg="1" class="h-auto max-h-full w-auto rounded-2xl md:max-w-[95%]" style="color: transparent;" srcset="https://hcdn.useholo.com/assets/about-us/About%20Us_Step%207.webp 1x, https://hcdn.useholo.com/assets/about-us/About%20Us_Step%207.webp 2x" src="https://hcdn.useholo.com/assets/about-us/About%20Us_Step%207.webp"></div></div></div><div class="flex flex-col gap-10"><div class="step  flex items-center justify-between  gap-10"><div class="relative flex gap-5 xl:gap-12"><div><div class="shrink-0 rounded-full p-[3px] text-2xl font-bold lg:p-[8px]" style="background: linear-gradient(90deg, rgb(136, 136, 255) 0%, rgb(194, 121, 198) 100%);"><div class="flex min-h-[50px] min-w-[50px] items-center justify-center rounded-full bg-white md:min-h-[60px] md:min-w-[60px] lg:min-h-[96px] lg:min-w-[96px]" style="width: 5ch; height: 5ch;"><p class="text-xl font-bold md:text-3xl xl:text-[42px]" style="background: linear-gradient(90deg, rgb(136, 136, 255) 0%, rgb(194, 121, 198) 100%) padding-box text; color: transparent;">2025</p></div></div></div><div class="content max-md:flex max-md:items-center max-md:justify-center"><h3 class="text-[24px] font-bold leading-8 text-text-primary md:mb-6 md:text-[42px] md:leading-[44px] lg:mb-6">Improving 
   the homebuying 
   experience</h3><p class="whitespace-pre-line text-2xl leading-[32px] text-text-body max-md:hidden">Expansion into new markets across the GCC and beyond, solidifying Holo as a leader in the digital homebuying process</p></div></div></div><div class="flex items-center justify-center"><div class="step-img z-40 flex h-[342px] w-[342px] items-center justify-center rounded-2xl md:h-[612px] md:w-[612px]"><img alt="step image" loading="lazy" width="612" height="612" decoding="async" data-nimg="1" class="h-auto max-h-full w-auto rounded-2xl md:max-w-[95%]" style="color: transparent;" srcset="https://hcdn.useholo.com/assets/about-us/About%20Us_Step%208.webp 1x, https://hcdn.useholo.com/assets/about-us/About%20Us_Step%208.webp 2x" src="https://hcdn.useholo.com/assets/about-us/About%20Us_Step%208.webp"></div></div></div></div></div></div>
-  <h2 class="pt-10 text-center text-xl font-semibold leading-7 text-text-primary md:py-12 md:text-[32px] md:leading-[38px]">
-    We work with the best banks in the <br> United Arab Emirates.
-  </h2>
-  <!-- Image Slider Section -->
-<div class="swiper-container">
-  <div class="swiper-wrapper">
-      <div class="swiper-slide">
-          <img src="https://hcdn.useholo.com/assets/new-home/banks/sc.png" alt="Standard Chartered" class="slider-img">
-      </div>
-      <div class="swiper-slide">
-          <img src="https://hcdn.useholo.com/assets/new-home/banks/fab.png" alt="First Abu Dhabi Bank" class="slider-img">
-      </div>
-      <div class="swiper-slide">
-          <img src="https://hcdn.useholo.com/assets/new-home/banks/hsbc.png" alt="HSBC" class="slider-img">
-      </div>
-      <div class="swiper-slide">
-          <img src="https://hcdn.useholo.com/assets/new-home/banks/adib.png" alt="Abu Dhabi Islamic Bank" class="slider-img">
-      </div>
-      <div class="swiper-slide">
-          <img src="https://hcdn.useholo.com/assets/new-home/banks/cbod.png" alt="Arab Bank" class="slider-img">
-      </div>
-      <!-- Add more slides as needed -->
-  </div>
-
-  <!-- Optional Swiper Pagination -->
-  <div class="swiper-pagination"></div>
-
-  <!-- Optional Swiper Navigation buttons -->
-  <div class="swiper-button-next"></div>
-  <div class="swiper-button-prev"></div>
-</div>
-
+  
+  <div class="whitespace-pre-line text-base font-normal md:text-lg text-text-primary bg-gray-100 p-6 rounded-lg shadow-md transition duration-300 ease-in-out hover:bg-gray-600">
 
   <div class="mx-6">
     <div class="mt-32 rounded-3xl bg-white text-black">
@@ -114,7 +84,9 @@
       </div>
     </div>
   </div>
-    
+</div>
+<div class="whitespace-pre-line text-base font-normal md:text-lg text-text-primary bg-gray-100 p-6 rounded-lg shadow-md transition duration-300 ease-in-out hover:bg-gray-600">
+
     <div class="relative px-[24px] py-[48px] md:py-[142px] lg:ps-[191px] flex justify-center items-center">
       <div class="max-w-[90%] xs:max-w-[70%] lg:max-w-[65%] text-center">
         <h2 class="mb-6 text-[28px] font-bold leading-8 text-text-primary md:text-5xl md:leading-[48px]">
@@ -136,6 +108,7 @@
         
       </div>
     </div>
+ 
    
     <script>
       var swiper = new Swiper('.swiper-container', {
